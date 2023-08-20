@@ -1,3 +1,3 @@
-# tttgame
+# Tic-Tac-Toe game
 
-A new Flutter project.
+My tic tac toe on Flutter+Flame with multiplayer.
